@@ -17,3 +17,7 @@
 - Online resource [list](https://github.com/asoplata/open-science-resources)
 - [Python](https://prappleizer.github.io/index.html) for astronomers
 - Scientific [python](https://projectpythia.org/)
+- Python [tools](https://oceanpython.org) for oceanographers 
+- Python [tools](https://pyoceans.github.io/sea-py/) for oceanographic analysis
+- Python for [geosciences](https://github.com/koldunovn/python_for_geosciences)
+- Programming with [python](https://swcarpentry.github.io/python-novice-inflammation/) tutorial
